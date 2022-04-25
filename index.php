@@ -276,12 +276,6 @@
                 <button class="modalButton" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#bigBurger">
                     Big burger
                 </button>
-                <button class="modalButton" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#manuGameWorld">
-                    Manu Game World
-                </button>
-                <button class="modalButton" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#colyseum">
-                    Colyseum
-                </button>
                 </div>
             </div>
         </div>
