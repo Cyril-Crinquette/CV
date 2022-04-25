@@ -51,9 +51,10 @@
                     Cyril
                     <span class="text-primary">CRINQUETTE</span>
                 </h1>
-                <div class="subheading mb-5">
-                    Apprenti développeur 31 ans
-                    <a href="mailto:cyril.crinquette@hotmail.com">cyril.crinquette@hotmail.com</a>
+                <div class="subheading mb-5"> 
+                    Apprenti développeur de 31 ans <br>
+                    <a href="mailto:cyril.crinquette@hotmail.com">cyril.crinquette@hotmail.com</a> <br>
+                    <a href="tel:+33612381398">06.12.38.13.98</a>
                 </div>
                 <p class="lead mb-5">
                     Actuellement en reconversion professionnelle, j'ai choisi le domaine <br> du développement
